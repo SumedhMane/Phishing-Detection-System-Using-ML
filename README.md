@@ -5,8 +5,7 @@
 
 Phishing attacks remain a prevalent threat to cybersecurity, leveraging deceptive tactics to trick users into divulging sensitive information.By leveraging a dataset of known phishing emails and legitimate communications, the system trains ML models to recognize patterns indicative of phishing attempts.
 
-Features extracted from email headers, content, and URLs are utilized to train classifiers capable of distinguishing between legitimate and fraudulent messages. The system's effectiveness is 
-evaluated through extensive testing on real-world datasets, demonstrating its ability to accurately identify phishing emails with high precision and recall rates. Through the 
+The system's effectiveness is evaluated through extensive testing on real-world datasets, demonstrating its ability to accurately identify phishing emails with high precision and recall rates. Through the 
 integration of ML algorithms, this phishing detection system provides an efficient and automated solution for mitigating the risks posed by phishing attacks in today's digital landscape.
 
 ![DocScanner 19 Nov 2024 10-56 pm_1](https://github.com/user-attachments/assets/3a517b65-1d33-4553-ae25-a2ed6872dd3b)
